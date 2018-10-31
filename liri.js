@@ -80,6 +80,9 @@ for (var i = 3; i < nodeArgs.length; i++) {
         liriTakeTheWheel();
         break;
 
+    default:
+    console.log("Please enter either 'concert-this' followed by the artist, 'spotify-this-song' followed by the song title, 'movie-this' followed by the movie title, or 'do-what-it-says' to run the random.txt file. Thank you.")
+
 }
 
 // function for finding a concert
