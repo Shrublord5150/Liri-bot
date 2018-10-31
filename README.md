@@ -48,7 +48,7 @@ Liri-bot has four different commands that will allow the user to send out four d
 
 Do Not Include the "" when you enter in the artists name, song title, or movie title. 
 
-The "do-what-it-says" does not need an argument (second entry), just hit enter.
+The "do-what-it-says" command does not need an argument (second entry), just hit enter and wait for the magic to happen.
 
 ## Command Line Examples
 
@@ -72,7 +72,7 @@ And when you run the command, Liri will display all up comming concert informati
 To use spotify-this-song, simply type in the command line:
 
 ```
-node ./liri.js spotify-this-song Hallowed Be Thy Name
+node ./liri.js spotify-this-song Song Title
 ```
 
 An example of this can be seen in the picture below.
@@ -87,7 +87,7 @@ And when you run the command, Liri will display various information about that s
 To use movie-this, simply type in the command line:
 
 ```
-node ./liri.js movie-this Braveheart
+node ./liri.js movie-this Movie Title
 ```
 
 An example of this can be seen in the picture below.
