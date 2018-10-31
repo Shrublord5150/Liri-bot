@@ -4,7 +4,7 @@ Node.js homework
 ## Overview
 Liri-bot is a CLI application that allows the user to enter various commands into the command line to recieve different results.
 
-The commands are listed below along with screen shots of how the commands are entered and what the various results will be displayed for the user.
+The commands are listed below along with screen shots of how the commands are entered and what various results will be displayed for the user.
 
 ## Before You Start
 ### NPM Packages
